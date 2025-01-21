@@ -91,7 +91,7 @@
         <section class="content">
             
                                       
-                                      <p> by: Anuj Raj</p>
+                                      by: Anuj Raj
 <u><center></p><p><B> FANTASY ADVENTURE ADDON</P></B></center></u>
 <font size="5">Fantasy Adventure addon transforms your Minecraft Bedrock world into a magical realm teeming with mythical creatures, powerful equipment, and exciting adventures.<font>
 <img src="https://minercamp.com/wp-content/uploads/2024/12/fantasy-adventure.jpg" alt="description" />
