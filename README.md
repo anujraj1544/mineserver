@@ -90,23 +90,20 @@
    <main>
         <section class="content">
             
-                                      
-                                      by: Anuj Raj
-<u><center></p><p><B> FANTASY ADVENTURE ADDON</P></B></center></u>
+                                       by: Anuj Raj
+                                                                 <u><center><p><B> FANTASY ADVENTURE ADDON
+
+
+
+
 <font size="5">Fantasy Adventure addon transforms your Minecraft Bedrock world into a magical realm teeming with mythical creatures, powerful equipment, and exciting adventures.<font>
 <img src="https://minercamp.com/wp-content/uploads/2024/12/fantasy-adventure.jpg" alt="description" />
  
-<p><font size="5"><B>DOWNLOAD POCKET EDITION FOR MINECRAFT</FONT></B></p>
+<p><font size="5"><B>DOWNLOAD POCKET EDITION FOR MINECRAFT
 <p><a href="https://minercamp.com/download/4406/?tmstv=1734898976">v.1.21.51 APK</a>
 <p><a href="https://modbibo.com/minecraft/downloading/1.21.51.02-apk">v.1.21.51.02 APK</a>
 
 <p><a href="https://modbibo.com/minecraft/downloading/1.21.60.27-apk-beta">v.1.21.60.27(beta) APK</a>
 
-        </section>
-    </main>
-
     <footer>
-        <p>&copy; 2025 My Website. All Rights Reserved.</p><p><b>contact:anujrajr2011@gmail.com</p></b>
-    </footer> 
-</body>
-</html>
+        <p>&copy; 2025 My Website. All Rights Reserved.</p><p><b>contact:anujrajr2011@gmail.com
