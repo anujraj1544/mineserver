@@ -90,8 +90,8 @@
    <main>
         <section class="content">
             
-                                        <h2> <P><b><u>ADDONS FOR MCPE 1.21.51</U></b></p></h2>
-                                      <p> by: Anuj Raj
+                                      
+                                      <p> by: Anuj Raj</p>
 <u><center></p><p><B> FANTASY ADVENTURE ADDON</P></B></center></u>
 <font size="5">Fantasy Adventure addon transforms your Minecraft Bedrock world into a magical realm teeming with mythical creatures, powerful equipment, and exciting adventures.<font>
 <img src="https://minercamp.com/wp-content/uploads/2024/12/fantasy-adventure.jpg" alt="description" />
